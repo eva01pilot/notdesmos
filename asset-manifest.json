@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notdesmos/static/css/main.4476dd7d.css",
+    "main.js": "/notdesmos/static/js/main.f9414224.js",
+    "index.html": "/notdesmos/index.html",
+    "main.4476dd7d.css.map": "/notdesmos/static/css/main.4476dd7d.css.map",
+    "main.f9414224.js.map": "/notdesmos/static/js/main.f9414224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4476dd7d.css",
+    "static/js/main.f9414224.js"
+  ]
+}
